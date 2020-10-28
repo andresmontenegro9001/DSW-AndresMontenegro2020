@@ -19,9 +19,15 @@ h3 {
     font-size: larger;
 }
 .tabla {
+    background-color: turquoise;
     padding: 20px;
 }
 
 .tablatd {
     padding: 20px;
+}
+
+.elDiv {
+    background-color: skyblue;
+    color: rgb(5, 5, 236);
 }
