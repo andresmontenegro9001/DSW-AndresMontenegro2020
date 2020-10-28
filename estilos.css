@@ -1,0 +1,27 @@
+h2 {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    color: black;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    color: #333;
+    font-family: Open Sans, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 18px;
+    box-sizing: border-box;
+    margin: 0 0 10px;
+    text-align: left;
+}
+.color_rojo {
+    color: red;
+    font-size: larger;
+}
+.tabla {
+    padding: 20px;
+}
+
+.tablatd {
+    padding: 20px;
+}
