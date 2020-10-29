@@ -27,7 +27,57 @@ h3 {
     padding: 20px;
 }
 
+.identidadAzul {
+    color: #005883;
+}
+
+.identidadAmarillo {
+    color: #f0b429;
+}
+
+.identidadNaranja {
+    color: #f47920;
+}
+
+.identidadGris1 {
+    color: #333333;
+}
+
+.identidadGris2 {
+    color: #b3b3b3;
+}
+
+.divSuperior {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    color: #f47920;
+    line-height: 24px;
+    font-family: Open Sans, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    box-sizing: border-box;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    float: left;
+}
+
+.divMenu {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    color: #333;
+    line-height: 24px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    box-sizing: border-box;
+    margin-right: 160px;
+    margin-left: 0;
+    float: right;
+}
+
 .elDiv {
     background-color: skyblue;
     color: rgb(5, 5, 236);
+    clear: both;
 }
